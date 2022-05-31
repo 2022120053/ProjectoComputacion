@@ -1,0 +1,93 @@
+body {
+    background-color: #e3e3e3;
+}
+main {
+    margin: 100px;
+}
+.discbox {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.disc {
+    display: flex;
+}
+.disc .image {
+    width: 250px;
+    height: auto;
+}
+.disc .discc {
+    padding: 10px;
+    margin-left: 100px;
+}
+.discc .title {
+    text-decoration: underline;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.discc .author {
+    margin: 4px;
+    margin-left: 10px;
+}
+.discc .description {
+    padding: 20px;
+}
+
+#harryshouse {
+    background-color: #e3d4b9;
+}
+
+#mrmorale {
+    background-color: #795f3e;
+}
+
+#madvilliany {
+    background-color: #e1e1e1;
+}
+
+#fineline {
+    background-color: black;
+}
+#fineline * {
+    color: #e4eaea;
+}
+
+#flowerboy {
+    background-color: #fd9c1c;
+}
+
+#igor {
+    background-color: #f2abbe;
+}
+
+#illmatic {
+    background-color: #c47255;
+}
+
+#mmfood {
+    background-color: #37594b;
+}
+#mmfood * {
+    color: #f6ffd7;
+}
+
+#darkfantasy {
+    background-color: #030303;
+}
+#darkfantasy * {
+    color: #fff;
+}
+
+#darksidemoon {
+    background-color: #000;
+}
+#darksidemoon * {
+    color: #fff;
+}
+
+#butterfly {
+    background-color: #a3a0a2;;
+}

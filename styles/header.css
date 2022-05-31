@@ -1,0 +1,17 @@
+.header {
+    background: #c8c8c8;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.header .link {
+    padding: 5px;
+    margin: 5px;
+    vertical-align: middle;
+}
+
+.header .index {
+    font-size: 20px;
+}

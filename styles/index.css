@@ -1,0 +1,44 @@
+main .last {
+    margin: 100px;
+    /*border: 1px dashed #000;*/
+    display: flex;
+    border-radius: 10px;
+    background-color: #ebe9e0;
+}
+.last img {
+    border-radius: 9px 0px 0px 9px;
+    height: 400px;
+    width: auto;
+}
+.last .container {
+    margin-right: 30px;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+.last .container .title{
+    text-decoration: underline;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+.last .container p {
+    font-size:17px;
+    margin: 15px;
+}
+.last .container ul {
+    list-style-type: disc;
+    padding: 30px;
+}
+.last ul li {
+    padding: 10px;
+}
+.last li a {
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.last .container p a {
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
